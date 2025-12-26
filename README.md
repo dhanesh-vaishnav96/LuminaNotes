@@ -5,6 +5,13 @@ It combines modern UI, smooth animations, and local storage to deliver a premium
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try it here:**  
+👉 https://dhanesh-vaishnav96.github.io/LuminaNotes/
+
+---
+
 ## ✨ Features
 
 - 🧠 Create, edit, and delete notes instantly  
