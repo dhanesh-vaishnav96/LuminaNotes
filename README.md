@@ -24,13 +24,6 @@ It combines modern UI, smooth animations, and local storage to deliver a premium
 
 ---
 
-## 🖼️ Preview
-
-> Add screenshots or a demo GIF here  
-> *(Highly recommended for GitHub visibility)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
